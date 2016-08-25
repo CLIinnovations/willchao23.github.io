@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Will and Tourie are LIVE on the web!!!"
 date:   2016-08-25 07:09:50 -0400
 categories: jekyll update
 ---
